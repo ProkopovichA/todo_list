@@ -1,7 +1,6 @@
 package com.prokopovich.todo_list.controller;
 
 import com.prokopovich.todo_list.entity.UserEntity;
-import com.prokopovich.todo_list.repository.UserRepo;
 import com.prokopovich.todo_list.service.UserService;
 import exception.UserAlreadyExistException;
 import exception.UserNotFoundException;
